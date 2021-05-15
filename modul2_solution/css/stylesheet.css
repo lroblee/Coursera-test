@@ -14,18 +14,6 @@ h1{
   box-sizing: border-box;
 }
 
-/*
- #section{
-  background-color: gray;
-  padding: 5px;
-  border: 3px solid black;
-  width: 330.66px;
-  height: 200px;
-  margin: 10px 10px; 
-  overflow: auto;
-  position: relative; 
-}
-*/
 #section{
   position: relative;
 }
